@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138930492714",
+    "firebase_url": "https://mayor-o-menor.firebaseio.com",
+    "project_id": "mayor-o-menor",
+    "storage_bucket": "mayor-o-menor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138930492714:android:294e8a9fd21c119c",
+        "android_client_info": {
+          "package_name": "com.igabeto.mayoromenor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138930492714-e3g9mlb2613o4c51uardjpdq6i64da48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Qo1-lJbA21USSDgK5eOVutJpVZlVapg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

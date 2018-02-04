@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mayor o Menor</string>
+    <string name="modoJuego">Modo de Juego</string>
+    <string name="mayor">Mayor</string>
+    <string name="menor">Menor</string>
+    <string name="puntuacion">Puntuación: </string>
+    <string name="time">Tiempo: </string>
+    <string name="vidas">Vidas: </string>
+    <string name="btnPlayLifes">Vidas</string>
+    <string name="btnPlayCrono">Crono</string>
+    <string name="btnRanking">Ranking</string>
+    <string name="infoApp">Mayor o Menor v2.0</string>
+    <string name="infoDev">Desarrollado por iGabetoApps</string>
+    <string name="create_user">Crear nuevo jugador...</string>
+    <string name="delete">Eliminar</string>
+    <string name="deleteText">¿Estás seguro que deseas eliminar al jugador</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
